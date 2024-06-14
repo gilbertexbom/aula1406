@@ -1,4 +1,5 @@
 # Calculadora simples
+# Salve meu mano Gilberto, to aqui contigo nesse projetinho
 
 while True:
 
